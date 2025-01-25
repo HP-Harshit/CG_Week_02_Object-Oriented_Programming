@@ -1,6 +1,6 @@
 package assistedproblems.animalhierarchy;
 
-public class Animal {
+public abstract class Animal {
     // Class Attributes
     String name;
     int age;
